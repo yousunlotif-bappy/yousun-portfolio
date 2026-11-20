@@ -213,7 +213,7 @@ export default function App() {
             {/* Buttons */}
             <div className="flex flex-wrap gap-5">
               <a
-                href="/resume.pdf"
+                href="/Yousun Lotif Optimized.pdf"
                 download
                 className="flex items-center gap-3 rounded-lg bg-[#d9a441] px-7 py-4 font-bold text-black transition hover:bg-[#f0bd5a]"
               >
